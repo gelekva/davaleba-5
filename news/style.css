@@ -1,0 +1,79 @@
+a {  
+	font-size: 24px;
+	color: #8D81FF;
+    text-decoration: none;
+   margin:50px 100px;
+    display: inline-block;
+    font-weight: 700;
+
+}
+#active {
+	color:  #4E6FAE;
+}
+.icon {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 20px 20px;
+}
+.poster {
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+    }
+.heading{
+display: inline-block;
+color: #4E6FAE;
+font-weight: 700;
+font-size: 24px;
+margin:50px 20px 50px 400px
+}
+.T {
+  color:  #4E6FAE;
+  font-weight:400 ;
+  font-size:26px ;
+  margin-left: 20px;
+  display: inline-block;
+
+}
+
+
+
+
+    
+
+div {
+    width: 500px;
+    height: 190px;
+    background-color: #E7E7E7;
+    margin: 20px 0px 0px 400px; 
+    display: inline-block;
+    padding: 40px;
+
+}
+.teqsti {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Roboto;
+}
+.text {
+   font-weight:400;
+   font-size: 20px;
+   color:  #7E8898;
+   display: inline-block;
+   margin: 0px;
+   width: 335px;
+  
+
+}
+.image {
+    margin-right: 20px;
+    display: inline-block;
+    vertical-align: text-top;
+    vertical-align: top;
+}
+#div2 {
+    height: 190px;
+    width: 500px;
+    margin: 20px 300px 0px 100px;
+    

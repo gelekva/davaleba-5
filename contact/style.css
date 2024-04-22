@@ -1,0 +1,42 @@
+a {  
+	font-size: 24px;
+	color: #8D81FF;
+    text-decoration: none;
+   margin:50px 100px;
+    display: inline-block;
+    font-weight: 700;
+
+}
+#active {
+	color:  #4E6FAE;
+ }
+ div {
+    width: 1660px;
+height: 735px;
+top: -381px;
+left: 2162px;
+background-color:  #E7E7E7;
+padding: 40px;
+display: inline-block;
+
+ }
+ h1 {
+    font-weight: 700;
+    font-size: 36px;
+    width: 474px;
+    color:  #4E6FAE;
+    display: inline-block;
+ }
+ span {
+    font-weight: 400;
+    font-size: 20px;
+    width: 307px;
+   
+ }
+ .map {
+    vertical-align:top;
+    width: 900px;
+    height: 540px;
+    margin-left: 500px;
+    display: inline-flex;
+ }
